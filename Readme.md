@@ -25,7 +25,9 @@ Controls:
 - Mouse left click and drop: Add live cells
 - Mouse right click and drop: Kill cells
 
+
 Fork Author Notes:
+--
 
 Forked away because it did not work straight out because of the broken SDL dependencies. Repaired them. It should be able to compile with .sln in Visual Studio.
 A pre-compiled release for x64 is located in the x64 folder.
