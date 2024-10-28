@@ -1,4 +1,4 @@
-Executable download: https://github.com/izanbf1803/Builds/tree/master/Conway-game-of-life
+Executable download: https://github.com/Devvric/Conway-game-of-life/blob/patch/Conway%20Game%20Of%20Life.zip
 
 <img src="https://i.imgur.com/JFX9qQE.png">
 
@@ -24,3 +24,8 @@ Controls:
 - Down arrow: Slow down
 - Mouse left click and drop: Add live cells
 - Mouse right click and drop: Kill cells
+
+Fork Author Notes:
+
+Forked away because it did not work straight out because of the broken SDL dependencies. Repaired them. It should be able to compile with .sln in Visual Studio.
+A pre-compiled release for x64 is located in the x64 folder.
